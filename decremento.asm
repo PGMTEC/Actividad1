@@ -3,7 +3,7 @@
      
   .DATA 
     cont db 0
-    Texto DB 10,13, 'Mensaje en pantalla.$' 
+    Texto DB 10,13, 'Prueba de materia.$' 
     
     Texto2 DB 10,13,'Hola MUNDO.$'  
     
